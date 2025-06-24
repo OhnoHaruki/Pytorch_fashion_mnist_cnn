@@ -29,11 +29,3 @@ Google colaboratory
 ## 使用したデータ
 今回は衣類の画像から作成されたデータセットである、[Fashion_MNIST](https://github.com/zalandoresearch/fashion-mnist)を使用しました。  
 
-## 作者  
-* はるき  
-* 大学生
-* Twitter: @haruki_data
-
-## 最後に
-ご覧いただきありがとうございます。PyTorchの基礎を学んだのでFashion_MNISTを用いて実装しました。今回実装してみて、当たり前ですが、データの前処理をもっと工夫することであったり、モデルの内容をもっと工夫することでより良い結果が得られると思うのでもっと勉強して改善を試みようと思います。  
-アドバイスなどがありましたらTwitterのDMでお願いします。
